@@ -1,7 +1,9 @@
 #include "mainwindow.h"
 #include "./ui_mainwindow.h"
 #include <vector>
+
 using namespace std;
+
 string input;
 int score = 0;
 MainWindow::MainWindow(QWidget *parent)
